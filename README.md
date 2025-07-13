@@ -1,6 +1,6 @@
 # FlowerShop 🌸
 
-A beautiful and elegant flower shop website designed to showcase floral products and services. This project presents a modern, responsive landing page for a flower retail business with a focus on user experience and visual appeal.
+A beautiful and elegant flower shop website designed to showcase floral products and services. This project presents a modern, responsive landing page for a flower retail business with a focus on user experience and visual appeal. The website features a clean design with intuitive navigation, product galleries sections to create an engaging shopping experience for flower enthusiasts.
 
 ## Key Features
 
