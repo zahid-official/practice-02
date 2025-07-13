@@ -47,6 +47,8 @@ The website targets customers interested in:
 - Same-day delivery services
 - Special occasion flowers
 - Promotional deals and discounts
+- Customized floral designs for events and weddings
+- Corporate and bulk flower orders
 
 ---
 
